@@ -1,4 +1,101 @@
 {
+  "Noto Sans TC": {
+    "value": "Noto Sans TC",
+    "type": "fontFamilies",
+    "description": "Font family for use in HippoWallet. "
+  },
+  "thin": {
+    "value": "Thin",
+    "type": "fontWeights"
+  },
+  "Light": {
+    "value": "Light",
+    "type": "fontWeights"
+  },
+  "DemiLight": {
+    "value": "DemiLight",
+    "type": "fontWeights"
+  },
+  "Regular": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "Medium": {
+    "value": "Medium",
+    "type": "fontWeights"
+  },
+  "Bold": {
+    "value": "Bold",
+    "type": "fontWeights"
+  },
+  "Black": {
+    "value": "Black",
+    "type": "fontWeights"
+  },
+  "line-height-12": {
+    "value": "12",
+    "type": "lineHeights"
+  },
+  "line-height-16": {
+    "value": "16",
+    "type": "lineHeights"
+  },
+  "line-height-20": {
+    "value": "20",
+    "type": "lineHeights"
+  },
+  "line-height-28": {
+    "value": "28",
+    "type": "lineHeights"
+  },
+  "line-height-32": {
+    "value": "32",
+    "type": "lineHeights"
+  },
+  "line-height-24": {
+    "value": "24",
+    "type": "lineHeights"
+  },
+  "line-height-36": {
+    "value": "36",
+    "type": "lineHeights"
+  },
+  "line-height-48": {
+    "value": "48",
+    "type": "lineHeights"
+  },
+  "line-height-72": {
+    "value": "72",
+    "type": "lineHeights"
+  },
+  "line-height-88": {
+    "value": "88",
+    "type": "lineHeights"
+  },
+  "line-height-Auto": {
+    "value": "auto",
+    "type": "lineHeights"
+  },
+  "letter-spacing-default": {
+    "value": "0%",
+    "type": "letterSpacing"
+  },
+  "paragraph-spacing-default": {
+    "value": "0",
+    "type": "paragraphSpacing"
+  },
+  "text-decoration-none": {
+    "value": "none",
+    "type": "textDecoration"
+  },
+  "text-decoration-underline": {
+    "value": "underline",
+    "type": "textDecoration"
+  },
+  "text-decoration-linethrough": {
+    "value": "line-through",
+    "type": "textDecoration"
+  },
   "Base": {
     "Black": {
       "value": "#000000",
