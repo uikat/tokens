@@ -4,7 +4,9 @@
     "name": "Folder 1 ",
     "selectedTokenSets": {
       "global": "enabled",
-      "Test 1": "enabled"
+      "Test 1": "enabled",
+      "Brand01/Test01": "disabled",
+      "Brand01/Test02": "disabled"
     },
     "$figmaStyleReferences": {}
   }
