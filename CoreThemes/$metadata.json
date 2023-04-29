@@ -1,5 +1,20 @@
 {
   "tokenSetOrder": [
-    "global"
+    "Core",
+    "Bitrah/Colours/Dark",
+    "Bitrah/Colours/Light",
+    "Bitrah/Styles",
+    "Chainitix/Colours/Dark",
+    "Chainitix/Colours/Light",
+    "Enifex/Styles",
+    "Excoino/Colours/Dark",
+    "Excoino/Colours/Light",
+    "Excoino/Styles",
+    "HippoWallet/Colours/Dark",
+    "HippoWallet/Colours/Light",
+    "HippoWallet/Styles",
+    "Riverpay/Colours/Dark",
+    "Riverpay/Colours/Light",
+    "Riverpay/Styles"
   ]
 }
