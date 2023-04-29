@@ -101,7 +101,8 @@
       "fontFamily": "{Noto Sans TC}",
       "fontWeight": "{Bold}",
       "letterSpacing": "{letter-spacing-default}",
-      "paragraphSpacing": "{paragraph-spacing-default}"
+      "paragraphSpacing": "{paragraph-spacing-default}",
+      "fontSize": "{font-size-36}"
     },
     "type": "typography"
   },
@@ -129,7 +130,7 @@
     "value": "24",
     "type": "fontSizes"
   },
-  "font-size-34": {
+  "font-size-36": {
     "value": "34",
     "type": "fontSizes"
   },
