@@ -3,10 +3,22 @@
     "id": "6d9b8d8cfeca7954502194f56c80e12700815389",
     "name": "Folder 1 ",
     "selectedTokenSets": {
-      "global": "enabled",
-      "Test 1": "enabled",
-      "Brand01/Test01": "disabled",
-      "Brand01/Test02": "disabled"
+      "Core": "enabled",
+      "HippoWallet/Colours/Dark": "disabled",
+      "HippoWallet/Colours/Light": "disabled",
+      "HippoWallet/Styles": "disabled",
+      "Enifex/Styles": "disabled",
+      "Chainitix/Colours/Dark": "disabled",
+      "Chainitix/Colours/Light": "disabled",
+      "Bitrah/Styles": "disabled",
+      "Bitrah/Colours/Light": "disabled",
+      "Bitrah/Colours/Dark": "disabled",
+      "Excoino/Styles": "disabled",
+      "Excoino/Colours/Light": "disabled",
+      "Excoino/Colours/Dark": "disabled",
+      "Riverpay/Styles": "disabled",
+      "Riverpay/Colours/Light": "disabled",
+      "Riverpay/Colours/Dark": "disabled"
     },
     "$figmaStyleReferences": {}
   }
