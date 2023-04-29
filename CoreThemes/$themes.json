@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "6d9b8d8cfeca7954502194f56c80e12700815389",
+    "name": "Folder 1 ",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Test 1": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
