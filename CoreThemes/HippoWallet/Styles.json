@@ -95,5 +95,14 @@
   "text-decoration-linethrough": {
     "value": "line-through",
     "type": "textDecoration"
+  },
+  "Title-Bold-36": {
+    "value": {
+      "fontFamily": "{Noto Sans TC}",
+      "fontWeight": "{Bold}",
+      "letterSpacing": "{letter-spacing-default}",
+      "paragraphSpacing": "{paragraph-spacing-default}"
+    },
+    "type": "typography"
   }
 }

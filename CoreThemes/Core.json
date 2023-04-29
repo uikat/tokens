@@ -1,4 +1,68 @@
 {
+  "0": {
+    "value": "0",
+    "type": "borderRadius"
+  },
+  "1": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "4": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "8": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "12": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "16": {
+    "value": "16",
+    "type": "borderRadius"
+  },
+  "20": {
+    "value": "20",
+    "type": "borderRadius"
+  },
+  "24": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "28": {
+    "value": "28",
+    "type": "borderRadius"
+  },
+  "32": {
+    "value": "32",
+    "type": "borderRadius"
+  },
+  "40": {
+    "value": "40",
+    "type": "borderRadius"
+  },
+  "48": {
+    "value": "48",
+    "type": "borderRadius"
+  },
+  "60": {
+    "value": "60",
+    "type": "borderRadius"
+  },
+  "72": {
+    "value": "72",
+    "type": "borderRadius"
+  },
+  "84": {
+    "value": "84",
+    "type": "borderRadius"
+  },
+  "96": {
+    "value": "96",
+    "type": "borderRadius"
+  },
   "Noto Sans TC": {
     "value": "Noto Sans TC",
     "type": "fontFamilies",
@@ -703,125 +767,61 @@
       "value": "#745404",
       "type": "color"
     }
-	},
-	"font-size-10": {
-      "value": "10",
-      "type": "fontSizes"
+  },
+  "font-size-10": {
+    "value": "10",
+    "type": "fontSizes"
+  },
+  "font-size-12": {
+    "value": "12",
+    "type": "fontSizes"
+  },
+  "font-size-14": {
+    "value": "14",
+    "type": "fontSizes"
+  },
+  "font-size-16": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "font-size-20": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "font-size-24": {
+    "value": "24",
+    "type": "fontSizes"
+  },
+  "font-size-34": {
+    "value": "34",
+    "type": "fontSizes"
+  },
+  "font-size-48": {
+    "value": "48",
+    "type": "fontSizes"
+  },
+  "font-size-60": {
+    "value": "60",
+    "type": "fontSizes"
+  },
+  "font-size-96": {
+    "value": "96",
+    "type": "fontSizes"
+  },
+  "Half": {
+    "value": "0.5",
+    "type": "borderWidth"
+  },
+  "1point5": {
+    "value": "1.5",
+    "type": "borderWidth"
+  },
+  "DefaultBorder": {
+    "value": {
+      "color": "Black",
+      "width": "1",
+      "style": "solid"
     },
-    "font-size-12": {
-      "value": "12",
-      "type": "fontSizes"
-    },
-    "font-size-14": {
-      "value": "14",
-      "type": "fontSizes"
-    },
-    "font-size-16": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "font-size-20": {
-      "value": "20",
-      "type": "fontSizes"
-    },
-    "font-size-24": {
-      "value": "24",
-      "type": "fontSizes"
-    },
-    "font-size-34": {
-      "value": "34",
-      "type": "fontSizes"
-    },
-    "font-size-48": {
-      "value": "48",
-      "type": "fontSizes"
-    },
-    "font-size-60": {
-      "value": "60",
-      "type": "fontSizes"
-    },
-    "font-size-96": {
-      "value": "96",
-      "type": "fontSizes"
-    },
-	    "0": {
-      "value": "0",
-      "type": "borderRadius"
-    },
-    "1": {
-      "value": "1",
-      "type": "borderWidth"
-    },
-    "4": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "8": {
-      "value": "8",
-      "type": "borderRadius"
-    },
-    "12": {
-      "value": "12",
-      "type": "borderRadius"
-    },
-    "16": {
-      "value": "16",
-      "type": "borderRadius"
-    },
-    "20": {
-      "value": "20",
-      "type": "borderRadius"
-    },
-    "24": {
-      "value": "24",
-      "type": "borderRadius"
-    },
-    "28": {
-      "value": "28",
-      "type": "borderRadius"
-    },
-    "32": {
-      "value": "32",
-      "type": "borderRadius"
-    },
-    "40": {
-      "value": "40",
-      "type": "borderRadius"
-    },
-    "48": {
-      "value": "48",
-      "type": "borderRadius"
-    },
-    "60": {
-      "value": "60",
-      "type": "borderRadius"
-    },
-    "72": {
-      "value": "72",
-      "type": "borderRadius"
-    },
-    "84": {
-      "value": "84",
-      "type": "borderRadius"
-    },
-    "96": {
-      "value": "96",
-      "type": "borderRadius"
-    },
-    "Half": {
-      "value": "0.5",
-      "type": "borderWidth"
-    },
-    "1point5": {
-      "value": "1.5",
-      "type": "borderWidth"
-    },
-    "DefaultBorder": {
-      "value": {
-        "color": "Black",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border"
-    }
+    "type": "border"
   }
+}
