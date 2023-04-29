@@ -1,1 +1,8 @@
-{}
+{
+  "Base": {
+    "White": {
+      "value": "#fff",
+      "type": "color"
+    }
+  }
+}
