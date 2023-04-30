@@ -176,6 +176,18 @@
         "textDecoration": "{text-decoration-none}"
       },
       "type": "typography"
+    },
+    "Label-Medium-12": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Medium}",
+        "lineHeight": "{line-height-16}",
+        "fontSize": "{font-size-12}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
     }
   },
   "Title": {
@@ -209,6 +221,130 @@
         "fontWeight": "{Bold}",
         "lineHeight": "{line-height-28}",
         "fontSize": "{font-size-20}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    },
+    "Title-Bold-24": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Bold}",
+        "lineHeight": "{line-height-36}",
+        "fontSize": "{font-size-24}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    },
+    "Title-Regular-14": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Regular}",
+        "lineHeight": "{line-height-20}",
+        "fontSize": "{font-size-14}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    },
+    "Title-Medium-16": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Medium}",
+        "lineHeight": "{line-height-24}",
+        "fontSize": "{font-size-16}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    },
+    "Title-Medium-14": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Medium}",
+        "lineHeight": "{line-height-20}",
+        "fontSize": "{font-size-14}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    },
+    "Title-Medium-20": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Medium}",
+        "lineHeight": "{line-height-28}",
+        "fontSize": "{font-size-20}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    }
+  },
+  "Body":{
+    "Body-Regular-12": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Regular}",
+        "lineHeight": "{line-height-28}",
+        "fontSize": "{font-size-12}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    },
+    "Body-Regular-14": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Regular}",
+        "lineHeight": "{line-height-20}",
+        "fontSize": "{font-size-14}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    },
+    "Body-Regular-12": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Regular}",
+        "lineHeight": "{line-height-28}",
+        "fontSize": "{font-size-12}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    }
+  },
+  "Button":{
+    "Button-Medium-16": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Medium}",
+        "lineHeight": "{line-height-24}",
+        "fontSize": "{font-size-16}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    },
+    "Button-Medium-12": {
+      "value": {
+        "fontFamily": "{Noto Sans TC}",
+        "fontWeight": "{Medium}",
+        "lineHeight": "{line-height-16}",
+        "fontSize": "{font-size-12}",
         "letterSpacing": "{letter-spacing-default}",
         "paragraphSpacing": "{paragraph-spacing-default}",
         "textDecoration": "{text-decoration-none}"
