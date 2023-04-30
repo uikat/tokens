@@ -288,12 +288,12 @@
       "type": "typography"
     }
   },
-  "Body":{
+  "Body": {
     "Body-Regular-12": {
       "value": {
         "fontFamily": "{Noto Sans TC}",
         "fontWeight": "{Regular}",
-        "lineHeight": "{line-height-28}",
+        "lineHeight": "{line-height-16}",
         "fontSize": "{font-size-12}",
         "letterSpacing": "{letter-spacing-default}",
         "paragraphSpacing": "{paragraph-spacing-default}",
@@ -312,21 +312,9 @@
         "textDecoration": "{text-decoration-none}"
       },
       "type": "typography"
-    },
-    "Body-Regular-12": {
-      "value": {
-        "fontFamily": "{Noto Sans TC}",
-        "fontWeight": "{Regular}",
-        "lineHeight": "{line-height-28}",
-        "fontSize": "{font-size-12}",
-        "letterSpacing": "{letter-spacing-default}",
-        "paragraphSpacing": "{paragraph-spacing-default}",
-        "textDecoration": "{text-decoration-none}"
-      },
-      "type": "typography"
     }
   },
-  "Button":{
+  "Button": {
     "Button-Medium-16": {
       "value": {
         "fontFamily": "{Noto Sans TC}",
@@ -351,5 +339,29 @@
       },
       "type": "typography"
     }
+  },
+  "no": {
+    "value": "0",
+    "type": "spacing"
+  },
+  "xs": {
+    "value": "4",
+    "type": "spacing"
+  },
+  "sm": {
+    "value": "8",
+    "type": "spacing"
+  },
+  "lg": {
+    "value": "12",
+    "type": "spacing"
+  },
+  "xl": {
+    "value": "16",
+    "type": "spacing"
+  },
+  "xxl": {
+    "value": "20",
+    "type": "spacing"
   }
 }
