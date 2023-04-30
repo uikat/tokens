@@ -145,5 +145,17 @@
   "font-size-96": {
     "value": "96",
     "type": "fontSizes"
+  },
+  "Label-Regular-12": {
+    "value": {
+      "fontFamily": "{Noto Sans TC}",
+      "fontWeight": "{Regular}",
+      "lineHeight": "{line-height-16}",
+      "fontSize": "{font-size-12}",
+      "letterSpacing": "{letter-spacing-default}",
+      "paragraphSpacing": "{paragraph-spacing-default}",
+      "textDecoration": "{text-decoration-none}"
+    },
+    "type": "typography"
   }
 }
