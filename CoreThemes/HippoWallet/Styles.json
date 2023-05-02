@@ -363,5 +363,28 @@
   "xxl": {
     "value": "20",
     "type": "spacing"
+  },
+  "Border-radius-default": {
+    "value": "{8}",
+    "type": "borderRadius"
+  },
+  "Border-width-default": {
+    "value": "{1}",
+    "type": "borderWidth"
+  },
+  "Button-primary-xs-filled-Default": {
+    "value": {
+      "horizontalPadding": "{sm}",
+      "verticalPadding": "{sm}",
+      "borderRadius": "{Border-radius-default}",
+      "fill": "{Purple.500}",
+      "typography": "{Button.Button-Medium-12}",
+      "itemSpacing": "{sm}"
+    },
+    "type": "composition"
+  },
+  "verticalPadding: 8px:": {
+    "value": "verticalPadding: 8px",
+    "type": "spacing"
   }
 }
