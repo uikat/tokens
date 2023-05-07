@@ -141,7 +141,7 @@
     "type": "fontSizes"
   },
   "Label": {
-    "Label-Regular-12": {
+    "Regular-12": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
