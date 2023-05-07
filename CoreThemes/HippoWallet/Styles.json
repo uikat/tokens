@@ -153,7 +153,7 @@
       },
       "type": "typography"
     },
-    "Label-Regular-14": {
+    "Regular-14": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
@@ -165,7 +165,7 @@
       },
       "type": "typography"
     },
-    "Label-Medium-14": {
+    "Medium-14": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
@@ -177,7 +177,7 @@
       },
       "type": "typography"
     },
-    "Label-Medium-12": {
+    "Medium-12": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
@@ -191,7 +191,7 @@
     }
   },
   "Title": {
-    "Title-Regular-20": {
+    "Regular-20": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
@@ -203,7 +203,7 @@
       },
       "type": "typography"
     },
-    "Title-Bold-36": {
+    "Bold-36": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Bold}",
@@ -215,7 +215,7 @@
       },
       "type": "typography"
     },
-    "Title-Bold-20": {
+    "Bold-20": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Bold}",
@@ -227,7 +227,7 @@
       },
       "type": "typography"
     },
-    "Title-Bold-24": {
+    "Bold-24": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Bold}",
@@ -239,7 +239,7 @@
       },
       "type": "typography"
     },
-    "Title-Regular-14": {
+    "Regular-14": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
@@ -251,7 +251,7 @@
       },
       "type": "typography"
     },
-    "Title-Medium-16": {
+    "Medium-16": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
@@ -263,7 +263,7 @@
       },
       "type": "typography"
     },
-    "Title-Medium-14": {
+    "Medium-14": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
@@ -275,7 +275,7 @@
       },
       "type": "typography"
     },
-    "Title-Medium-20": {
+    "Medium-20": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
@@ -289,7 +289,7 @@
     }
   },
   "Body": {
-    "Body-Regular-12": {
+    "Regular-12": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
@@ -301,7 +301,7 @@
       },
       "type": "typography"
     },
-    "Body-Regular-14": {
+    "Regular-14": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
@@ -315,7 +315,7 @@
     }
   },
   "Button": {
-    "Button-Medium-16": {
+    "Medium-16": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
@@ -327,7 +327,7 @@
       },
       "type": "typography"
     },
-    "Button-Medium-12": {
+    "Medium-12": {
       "value": {
         "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
