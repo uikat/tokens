@@ -155,7 +155,7 @@
     },
     "Label-Regular-14": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
         "lineHeight": "{line-height-20}",
         "fontSize": "{font-size-14}",
@@ -167,7 +167,7 @@
     },
     "Label-Medium-14": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
         "lineHeight": "{line-height-20}",
         "fontSize": "{font-size-14}",
@@ -179,7 +179,7 @@
     },
     "Label-Medium-12": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
         "lineHeight": "{line-height-16}",
         "fontSize": "{font-size-12}",
@@ -193,7 +193,7 @@
   "Title": {
     "Title-Regular-20": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
         "lineHeight": "{line-height-28}",
         "fontSize": "{font-size-20}",
@@ -205,7 +205,7 @@
     },
     "Title-Bold-36": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Bold}",
         "lineHeight": "{line-height-52}",
         "fontSize": "{font-size-36}",
@@ -217,7 +217,7 @@
     },
     "Title-Bold-20": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Bold}",
         "lineHeight": "{line-height-28}",
         "fontSize": "{font-size-20}",
@@ -229,7 +229,7 @@
     },
     "Title-Bold-24": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Bold}",
         "lineHeight": "{line-height-36}",
         "fontSize": "{font-size-24}",
@@ -241,7 +241,7 @@
     },
     "Title-Regular-14": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
         "lineHeight": "{line-height-20}",
         "fontSize": "{font-size-14}",
@@ -253,7 +253,7 @@
     },
     "Title-Medium-16": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
         "lineHeight": "{line-height-24}",
         "fontSize": "{font-size-16}",
@@ -265,7 +265,7 @@
     },
     "Title-Medium-14": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
         "lineHeight": "{line-height-20}",
         "fontSize": "{font-size-14}",
@@ -277,7 +277,7 @@
     },
     "Title-Medium-20": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
         "lineHeight": "{line-height-28}",
         "fontSize": "{font-size-20}",
@@ -291,7 +291,7 @@
   "Body": {
     "Body-Regular-12": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
         "lineHeight": "{line-height-16}",
         "fontSize": "{font-size-12}",
@@ -303,7 +303,7 @@
     },
     "Body-Regular-14": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Regular}",
         "lineHeight": "{line-height-20}",
         "fontSize": "{font-size-14}",
@@ -317,7 +317,7 @@
   "Button": {
     "Button-Medium-16": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
         "lineHeight": "{line-height-24}",
         "fontSize": "{font-size-16}",
@@ -329,7 +329,7 @@
     },
     "Button-Medium-12": {
       "value": {
-        "fontFamily": "{Noto Sans TC}",
+        "fontFamily": "{default-font-family}",
         "fontWeight": "{Medium}",
         "lineHeight": "{line-height-16}",
         "fontSize": "{font-size-12}",
