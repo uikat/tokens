@@ -823,5 +823,18 @@
       "style": "solid"
     },
     "type": "border"
+  },
+  "Inter": {
+    "value": "Inter",
+    "type": "fontFamilies"
+  },
+  "Poppins": {
+    "value": "Poppins",
+    "type": "fontFamilies"
+  },
+  "default-font-family": {
+    "value": "{Inter}",
+    "type": "fontFamilies",
+    "description": "Default font family"
   }
 }

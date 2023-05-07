@@ -386,5 +386,10 @@
   "verticalPadding: 8px:": {
     "value": "verticalPadding: 8px",
     "type": "spacing"
+  },
+  "default-font-family": {
+    "value": "{Noto Sans TC}",
+    "type": "fontFamilies",
+    "description": "default font family in hippowallet"
   }
 }
