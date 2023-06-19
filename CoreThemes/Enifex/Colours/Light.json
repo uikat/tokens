@@ -1,1 +1,66 @@
-{}
+{
+  "Indigo-copy": {
+    "25": {
+      "value": "#f9f9ff",
+      "type": "color"
+    },
+    "50": {
+      "value": "#eff1fe",
+      "type": "color"
+    },
+    "100": {
+      "value": "#e2e5fd",
+      "type": "color"
+    },
+    "200": {
+      "value": "#c6ccfb",
+      "type": "color"
+    },
+    "300": {
+      "value": "#a2acf8",
+      "type": "color"
+    },
+    "400": {
+      "value": "#8290f6",
+      "type": "color"
+    },
+    "500": {
+      "value": "#6172f3",
+      "type": "color"
+    },
+    "600": {
+      "value": "#4256f1",
+      "type": "color"
+    },
+    "700": {
+      "value": "#2f45ef",
+      "type": "color"
+    },
+    "800": {
+      "value": "#1128dd",
+      "type": "color"
+    },
+    "900": {
+      "value": "#0f25c9",
+      "type": "color"
+    }
+  },
+  "btn": {
+    "primary": {
+      "value": "{Indigo-copy.600}",
+      "type": "color"
+    },
+    "active": {
+      "value": "{Indigo-copy.800}",
+      "type": "color"
+    },
+    "hover": {
+      "value": "{Indigo-copy.500}",
+      "type": "color"
+    },
+    "disable": {
+      "value": "{Indigo-copy.200}",
+      "type": "color"
+    }
+  }
+}

@@ -1,1 +1,40 @@
-{}
+{
+  "default-font-family": {
+    "value": "{Inter}",
+    "type": "fontFamilies"
+  },
+  "Button": {
+    "xs-sm": {
+      "value": {
+        "fontFamily": "{default-font-family}",
+        "fontWeight": "{Regular}",
+        "lineHeight": "{line-height-20}",
+        "fontSize": "{font-size-14}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
+    }
+  },
+  "btn": {
+    "filled-primary-default-xs": {
+      "value": {
+        "fill": "{btn.primary}",
+        "borderRadius": "{default-border-radius}",
+        "verticalPadding": "{sm}",
+        "itemSpacing": "{sm}",
+        "horizontalPadding": "{sm}"
+      },
+      "type": "composition"
+    }
+  },
+  "default-border-radius": {
+    "value": "{4}",
+    "type": "borderRadius"
+  },
+  "sm": {
+    "value": "8",
+    "type": "spacing"
+  }
+}
