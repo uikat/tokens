@@ -788,6 +788,10 @@
     "value": "16",
     "type": "fontSizes"
   },
+  "font-size-18": {
+    "value": "18",
+    "type": "fontSizes"
+  },
   "font-size-20": {
     "value": "20",
     "type": "fontSizes"

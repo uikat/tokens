@@ -19,6 +19,18 @@
         "textDecoration": "{text-decoration-none}"
       },
       "type": "typography"
+    },
+    "md-lg": {
+      "value": {
+        "fontFamily": "{default-font-family}",
+        "fontWeight": "{Regular}",
+        "lineHeight": "{line-height-24}",
+        "fontSize": "{font-size-18}",
+        "letterSpacing": "{letter-spacing-default}",
+        "paragraphSpacing": "{paragraph-spacing-default}",
+        "textDecoration": "{text-decoration-none}"
+      },
+      "type": "typography"
     }
   },
   "btn": {
@@ -113,7 +125,7 @@
             "value": {
               "fill": "{btn.primary}",
               "borderRadius": "{default-border-radius}",
-              "verticalPadding": "{lg}",
+              "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{xl}"
             },
@@ -123,7 +135,7 @@
             "value": {
               "fill": "{btn.hover}",
               "borderRadius": "{default-border-radius}",
-              "verticalPadding": "{lg}",
+              "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{xl}"
             },
@@ -133,7 +145,7 @@
             "value": {
               "fill": "{btn.active}",
               "borderRadius": "{default-border-radius}",
-              "verticalPadding": "{lg}",
+              "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{xl}"
             },
@@ -143,7 +155,7 @@
             "value": {
               "fill": "{btn.disable}",
               "borderRadius": "{default-border-radius}",
-              "verticalPadding": "{lg}",
+              "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{xl}"
             },
