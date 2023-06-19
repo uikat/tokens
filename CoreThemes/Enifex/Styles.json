@@ -72,5 +72,13 @@
   "sm": {
     "value": "8",
     "type": "spacing"
+  },
+  "md": {
+    "value": "12",
+    "type": "spacing"
+  },
+  "lg": {
+    "value": "16",
+    "type": "spacing"
   }
 }
