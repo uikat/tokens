@@ -39,7 +39,7 @@
         "xs": {
           "default": {
             "value": {
-              "fill": "{btn.primary}",
+              "fill": "{btn.primary.default}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
@@ -49,7 +49,7 @@
           },
           "hover": {
             "value": {
-              "fill": "{btn.hover}",
+              "fill": "{btn.primary.hover}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
@@ -59,7 +59,7 @@
           },
           "active": {
             "value": {
-              "fill": "{btn.active}",
+              "fill": "{btn.primary.active}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
@@ -69,7 +69,7 @@
           },
           "disable": {
             "value": {
-              "fill": "{btn.disable}",
+              "fill": "{btn.primary.disable}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
@@ -81,7 +81,7 @@
         "sm": {
           "default": {
             "value": {
-              "fill": "{btn.primary}",
+              "fill": "{btn.primary.default}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
@@ -91,7 +91,7 @@
           },
           "hover": {
             "value": {
-              "fill": "{btn.hover}",
+              "fill": "{btn.primary.hover}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
@@ -101,7 +101,7 @@
           },
           "active": {
             "value": {
-              "fill": "{btn.active}",
+              "fill": "{btn.primary.active}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
@@ -111,7 +111,7 @@
           },
           "disable": {
             "value": {
-              "fill": "{btn.disable}",
+              "fill": "{btn.primary.disable}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
@@ -123,7 +123,7 @@
         "md": {
           "default": {
             "value": {
-              "fill": "{btn.primary}",
+              "fill": "{btn.primary.default}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
@@ -133,7 +133,7 @@
           },
           "hover": {
             "value": {
-              "fill": "{btn.hover}",
+              "fill": "{btn.primary.hover}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
@@ -143,7 +143,7 @@
           },
           "active": {
             "value": {
-              "fill": "{btn.active}",
+              "fill": "{btn.primary.active}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
@@ -153,7 +153,7 @@
           },
           "disable": {
             "value": {
-              "fill": "{btn.disable}",
+              "fill": "{btn.primary.disable}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
@@ -165,7 +165,7 @@
         "lg": {
           "default": {
             "value": {
-              "fill": "{btn.primary}",
+              "fill": "{btn.primary.default}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
@@ -175,7 +175,7 @@
           },
           "hover": {
             "value": {
-              "fill": "{btn.hover}",
+              "fill": "{btn.primary.hover}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
@@ -185,7 +185,7 @@
           },
           "active": {
             "value": {
-              "fill": "{btn.active}",
+              "fill": "{btn.primary.active}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
@@ -195,7 +195,7 @@
           },
           "disable": {
             "value": {
-              "fill": "{btn.disable}",
+              "fill": "{btn.primary.disable}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
