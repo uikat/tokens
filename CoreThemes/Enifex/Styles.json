@@ -1737,31 +1737,31 @@
               "itemSpacing": "{sm}",
               "horizontalPadding": "{sm}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.600}"
+              "borderColor": "{Indigo-copy.600}"
             },
             "type": "composition"
           },
           "hover": {
             "value": {
-              "fill": "{Red.50}",
+              "fill": "{Indigo-copy.50}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{sm}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.500}"
+              "borderColor": "{Indigo-copy.500}"
             },
             "type": "composition"
           },
           "active": {
             "value": {
-              "fill": "{Red.100}",
+              "fill": "{Indigo-copy.100}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{sm}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.800}"
+              "borderColor": "{Indigo-copy.800}"
             },
             "type": "composition"
           },
@@ -1773,7 +1773,7 @@
               "itemSpacing": "{sm}",
               "horizontalPadding": "{sm}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.200}"
+              "borderColor": "{Indigo-copy.200}"
             },
             "type": "composition"
           }
@@ -1787,31 +1787,31 @@
               "itemSpacing": "{sm}",
               "horizontalPadding": "{10}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.600}"
+              "borderColor": "{Indigo-copy.600}"
             },
             "type": "composition"
           },
           "hover": {
             "value": {
-              "fill": "{Red.50}",
+              "fill": "{Indigo-copy.50}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{10}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.500}"
+              "borderColor": "{Indigo-copy.500}"
             },
             "type": "composition"
           },
           "active": {
             "value": {
-              "fill": "{Red.100}",
+              "fill": "{Indigo-copy.100}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{10}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.800}"
+              "borderColor": "{Indigo-copy.800}"
             },
             "type": "composition"
           },
@@ -1823,7 +1823,7 @@
               "itemSpacing": "{sm}",
               "horizontalPadding": "{10}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.200}"
+              "borderColor": "{Indigo-copy.200}"
             },
             "type": "composition"
           }
@@ -1837,31 +1837,31 @@
               "itemSpacing": "{sm}",
               "horizontalPadding": "{md}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.600}"
+              "borderColor": "{Indigo-copy.600}"
             },
             "type": "composition"
           },
           "hover": {
             "value": {
-              "fill": "{Red.50}",
+              "fill": "{Indigo-copy.50}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{md}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.500}"
+              "borderColor": "{Indigo-copy.500}"
             },
             "type": "composition"
           },
           "active": {
             "value": {
-              "fill": "{Red.100}",
+              "fill": "{Indigo-copy.100}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{md}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.800}"
+              "borderColor": "{Indigo-copy.800}"
             },
             "type": "composition"
           },
@@ -1873,7 +1873,7 @@
               "itemSpacing": "{sm}",
               "horizontalPadding": "{md}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.200}"
+              "borderColor": "{Indigo-copy.200}"
             },
             "type": "composition"
           }
@@ -1887,31 +1887,31 @@
               "itemSpacing": "{sm}",
               "horizontalPadding": "{lg}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.600}"
+              "borderColor": "{Indigo-copy.600}"
             },
             "type": "composition"
           },
           "hover": {
             "value": {
-              "fill": "{Red.50}",
+              "fill": "{Indigo-copy.50}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{lg}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.500}"
+              "borderColor": "{Indigo-copy.500}"
             },
             "type": "composition"
           },
           "active": {
             "value": {
-              "fill": "{Red.100}",
+              "fill": "{Indigo-copy.100}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
               "horizontalPadding": "{lg}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.800}"
+              "borderColor": "{Indigo-copy.800}"
             },
             "type": "composition"
           },
@@ -1923,7 +1923,7 @@
               "itemSpacing": "{sm}",
               "horizontalPadding": "{lg}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Red.200}"
+              "borderColor": "{Indigo-copy.200}"
             },
             "type": "composition"
           }
