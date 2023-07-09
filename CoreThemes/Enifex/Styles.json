@@ -1577,7 +1577,7 @@
               "itemSpacing": "{sm}",
               "horizontalPadding": "{lg}",
               "borderWidth": "{border-width-default}",
-              "borderColor": "{Indigo-copy.800}"
+              "borderColor": "{Gray.800}"
             },
             "type": "composition"
           },
