@@ -77,7 +77,7 @@
         "value": "{Red-copy.500}",
         "type": "color"
       },
-      "disabled": {
+      "disable": {
         "value": "{Red-copy.200}",
         "type": "color"
       }
