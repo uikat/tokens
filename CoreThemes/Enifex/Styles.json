@@ -382,7 +382,7 @@
               "fill": "{btn.primary.default}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{lg}"
             },
             "type": "composition"
@@ -392,7 +392,7 @@
               "fill": "{btn.primary.hover}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{lg}"
             },
             "type": "composition"
@@ -402,7 +402,7 @@
               "fill": "{btn.primary.active}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{lg}"
             },
             "type": "composition"
@@ -412,7 +412,7 @@
               "fill": "{btn.primary.disable}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{lg}"
             },
             "type": "composition"
@@ -424,7 +424,7 @@
               "fill": "{btn.primary.default}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{lg}"
             },
             "type": "composition"
@@ -434,7 +434,7 @@
               "fill": "{btn.primary.hover}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{lg}"
             },
             "type": "composition"
@@ -444,7 +444,7 @@
               "fill": "{btn.primary.active}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{lg}"
             },
             "type": "composition"
@@ -454,7 +454,7 @@
               "fill": "{btn.primary.disable}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{lg}"
             },
             "type": "composition"
@@ -466,7 +466,7 @@
               "fill": "{btn.primary.default}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{xl}"
             },
             "type": "composition"
@@ -476,7 +476,7 @@
               "fill": "{btn.primary.hover}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{xl}"
             },
             "type": "composition"
@@ -486,7 +486,7 @@
               "fill": "{btn.primary.active}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{xl}"
             },
             "type": "composition"
@@ -496,7 +496,7 @@
               "fill": "{btn.primary.disable}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{xl}"
             },
             "type": "composition"
@@ -508,7 +508,7 @@
               "fill": "{btn.primary.default}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{xxl}"
             },
             "type": "composition"
@@ -518,7 +518,7 @@
               "fill": "{btn.primary.hover}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{xxl}"
             },
             "type": "composition"
@@ -528,7 +528,7 @@
               "fill": "{btn.primary.active}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{xxl}"
             },
             "type": "composition"
@@ -538,7 +538,7 @@
               "fill": "{btn.primary.disable}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
-              "itemSpacing": "{sm}",
+              "itemSpacing": "{none}",
               "horizontalPadding": "{xxl}"
             },
             "type": "composition"
