@@ -1109,7 +1109,7 @@
           },
           "disable": {
             "value": {
-              "fill": "{btn.danger.disable}",
+              "fill": "{Base.White}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
