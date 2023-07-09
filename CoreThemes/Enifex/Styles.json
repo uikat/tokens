@@ -383,7 +383,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{lg}"
+              "horizontalPadding": "{sm}"
             },
             "type": "composition"
           },
@@ -393,7 +393,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{lg}"
+              "horizontalPadding": "{sm}"
             },
             "type": "composition"
           },
@@ -403,7 +403,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{lg}"
+              "horizontalPadding": "{sm}"
             },
             "type": "composition"
           },
@@ -413,7 +413,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{lg}"
+              "horizontalPadding": "{sm}"
             },
             "type": "composition"
           }
@@ -425,7 +425,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{lg}"
+              "horizontalPadding": "{10}"
             },
             "type": "composition"
           },
@@ -435,7 +435,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{lg}"
+              "horizontalPadding": "{10}"
             },
             "type": "composition"
           },
@@ -445,7 +445,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{lg}"
+              "horizontalPadding": "{10}"
             },
             "type": "composition"
           },
@@ -455,7 +455,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{lg}"
+              "horizontalPadding": "{10}"
             },
             "type": "composition"
           }
@@ -467,7 +467,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{xl}"
+              "horizontalPadding": "{md}"
             },
             "type": "composition"
           },
@@ -477,7 +477,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{xl}"
+              "horizontalPadding": "{md}"
             },
             "type": "composition"
           },
@@ -487,7 +487,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{xl}"
+              "horizontalPadding": "{md}"
             },
             "type": "composition"
           },
@@ -497,7 +497,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{xl}"
+              "horizontalPadding": "{md}"
             },
             "type": "composition"
           }
@@ -509,7 +509,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{xxl}"
+              "horizontalPadding": "{lg}"
             },
             "type": "composition"
           },
@@ -519,7 +519,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{xxl}"
+              "horizontalPadding": "{lg}"
             },
             "type": "composition"
           },
@@ -529,7 +529,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{xxl}"
+              "horizontalPadding": "{lg}"
             },
             "type": "composition"
           },
@@ -539,7 +539,7 @@
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{none}",
-              "horizontalPadding": "{xxl}"
+              "horizontalPadding": "{lg}"
             },
             "type": "composition"
           }
