@@ -2100,6 +2100,176 @@
             "type": "composition"
           }
         }
+      },
+      "neutral": {
+        "xs": {
+          "default": {
+            "value": {
+              "fill": "{Indigo-copy.50}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{sm}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{lg}"
+            },
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "fill": "{Indigo-copy.100}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{sm}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{lg}"
+            },
+            "type": "composition"
+          },
+          "active": {
+            "value": {
+              "fill": "{Indigo-copy.200}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{sm}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{lg}"
+            },
+            "type": "composition"
+          },
+          "disable": {
+            "value": {
+              "fill": "{Indigo-copy.25}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{sm}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{lg}"
+            },
+            "type": "composition"
+          }
+        },
+        "sm": {
+          "default": {
+            "value": {
+              "fill": "{Indigo-copy.50}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{10}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{lg}"
+            },
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "fill": "{Indigo-copy.100}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{10}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{lg}"
+            },
+            "type": "composition"
+          },
+          "active": {
+            "value": {
+              "fill": "{Indigo-copy.200}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{10}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{lg}"
+            },
+            "type": "composition"
+          },
+          "disable": {
+            "value": {
+              "fill": "{Indigo-copy.25}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{10}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{lg}"
+            },
+            "type": "composition"
+          }
+        },
+        "md": {
+          "default": {
+            "value": {
+              "fill": "{Indigo-copy.50}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{md}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{xl}"
+            },
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "fill": "{Indigo-copy.100}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{md}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{xl}"
+            },
+            "type": "composition"
+          },
+          "active": {
+            "value": {
+              "fill": "{Indigo-copy.200}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{md}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{xl}"
+            },
+            "type": "composition"
+          },
+          "disable": {
+            "value": {
+              "fill": "{Indigo-copy.25}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{md}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{xl}"
+            },
+            "type": "composition"
+          }
+        },
+        "lg": {
+          "default": {
+            "value": {
+              "fill": "{Indigo-copy.50}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{lg}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{xxl}"
+            },
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "fill": "{Indigo-copy.100}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{lg}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{xxl}"
+            },
+            "type": "composition"
+          },
+          "active": {
+            "value": {
+              "fill": "{Indigo-copy.200}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{lg}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{xxl}"
+            },
+            "type": "composition"
+          },
+          "disable": {
+            "value": {
+              "fill": "{Indigo-copy.25}",
+              "borderRadius": "{default-border-radius}",
+              "verticalPadding": "{lg}",
+              "itemSpacing": "{sm}",
+              "horizontalPadding": "{xxl}"
+            },
+            "type": "composition"
+          }
+        }
       }
     }
   },
