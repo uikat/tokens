@@ -2275,7 +2275,7 @@
         "xs": {
           "default": {
             "value": {
-              "fill": "{Gray.50}",
+              "fill": "{Red-copy.50}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
@@ -2285,7 +2285,7 @@
           },
           "hover": {
             "value": {
-              "fill": "{Gray.100}",
+              "fill": "{Red-copy.100}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
@@ -2295,7 +2295,7 @@
           },
           "active": {
             "value": {
-              "fill": "{Gray.200}",
+              "fill": "{Red-copy.200}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
@@ -2305,7 +2305,7 @@
           },
           "disable": {
             "value": {
-              "fill": "{Gray.25}",
+              "fill": "{Red-copy.25}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{sm}",
               "itemSpacing": "{sm}",
@@ -2317,7 +2317,7 @@
         "sm": {
           "default": {
             "value": {
-              "fill": "{Gray.50}",
+              "fill": "{Red-copy.50}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
@@ -2327,7 +2327,7 @@
           },
           "hover": {
             "value": {
-              "fill": "{Gray.100}",
+              "fill": "{Red-copy.100}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
@@ -2337,7 +2337,7 @@
           },
           "active": {
             "value": {
-              "fill": "{Gray.200}",
+              "fill": "{Red-copy.200}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
@@ -2347,7 +2347,7 @@
           },
           "disable": {
             "value": {
-              "fill": "{Gray.25}",
+              "fill": "{Red-copy.25}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{10}",
               "itemSpacing": "{sm}",
@@ -2359,7 +2359,7 @@
         "md": {
           "default": {
             "value": {
-              "fill": "{Gray.50}",
+              "fill": "{Red-copy.50}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
@@ -2369,7 +2369,7 @@
           },
           "hover": {
             "value": {
-              "fill": "{Gray.100}",
+              "fill": "{Red-copy.100}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
@@ -2379,7 +2379,7 @@
           },
           "active": {
             "value": {
-              "fill": "{Gray.200}",
+              "fill": "{Red-copy.200}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
@@ -2389,7 +2389,7 @@
           },
           "disable": {
             "value": {
-              "fill": "{Gray.25}",
+              "fill": "{Red-copy.25}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{md}",
               "itemSpacing": "{sm}",
@@ -2401,7 +2401,7 @@
         "lg": {
           "default": {
             "value": {
-              "fill": "{Gray.50}",
+              "fill": "{Red-copy.50}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
@@ -2411,7 +2411,7 @@
           },
           "hover": {
             "value": {
-              "fill": "{Gray.100}",
+              "fill": "{Red-copy.100}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
@@ -2421,7 +2421,7 @@
           },
           "active": {
             "value": {
-              "fill": "{Gray.200}",
+              "fill": "{Red-copy.200}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
@@ -2431,7 +2431,7 @@
           },
           "disable": {
             "value": {
-              "fill": "{Gray.25}",
+              "fill": "{Red-copy.25}",
               "borderRadius": "{default-border-radius}",
               "verticalPadding": "{lg}",
               "itemSpacing": "{sm}",
